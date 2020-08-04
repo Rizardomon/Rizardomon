@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E03AQEHV7e_SWm-iQ/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=d_EkBZiMuqVjZibMa5BNfe2tgNuwRoDyz44tnlc4yb0">
 
-<!--
-**Rizardomon/Rizardomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Richard Robinson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Estudante da área de segurança da informação 
+Sou um Frontend Developer :computer:
+
+ <br/> :purple_heart: &nbsp; Buscando conhecer e aprender sobre projetos em Front-end usando React
+ <br/> :computer: &nbsp; Conhecimentos de stack: ReactJS, Node.js
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: rrobinson.campos@gmail.com
+| 
