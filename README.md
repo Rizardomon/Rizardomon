@@ -2,7 +2,7 @@
 # Richard Robinson
 
 ## Olá pessoal 👋
-Estudante da área de segurança da informação 
+Estudante da área de segurança da informação <br />
 Sou um Frontend Developer :computer:
 
  <br/> :purple_heart: &nbsp; Buscando conhecer e aprender sobre projetos em Front-end usando React
