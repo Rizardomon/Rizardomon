@@ -1,13 +1,13 @@
 
 # Richard Robinson
 
-## Olá pessoal 👋
-Estudante da área de segurança da informação <br />
-Sou um Frontend Developer :computer:
+## Seja bem vindo :)
+Sou um estudante da área de segurança da informação  <br />
+Atualmente sou um Mobile Developer :computer:
 
  <br/> :purple_heart: &nbsp; Buscando conhecer e aprender sobre projetos em Front-end usando React
- <br/> :computer: &nbsp; Conhecimentos de stack: ReactJS, Node.js
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
+ <br/> :computer: &nbsp; Conhecimentos em: React, Node.js, Flutter, HTML, CSS e Firebase. 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados
  <br/> :email: &nbsp; Entre em contato comigo: rrobinson.campos@gmail.com
  <br/> :computer: &nbsp; [Site Pessoal](https://rrobinsoncampos.netlify.app/)
 | 
